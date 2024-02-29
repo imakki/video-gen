@@ -1,6 +1,6 @@
 # reels
 
-A new Flutter project.
+Shows a list of videos created by different users using text-to-video llms and the corresponding prompts that you can use and modify to generate a video on your own.
 
 ## Getting Started
 
